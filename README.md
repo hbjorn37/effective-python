@@ -71,7 +71,7 @@
 - Better Way 54 스레드에서 데이터 경합을 피하기 위해 Lock을 사용하라
 - Better Way 55 Queue를 사용해 스레드 사이의 작업을 조율하라
 - [Better Way 56](https://github.com/gizrak/effective-python/blob/main/chapter07-concurrency-and-parallelism/betterway56.ipynb) 언제 동시성이 필요할지 인식하는 방법을 알아두라
-- Better Way 57 요구에 따라 팬아웃을 진행하려면 새로운 스레드를 생성하지 말라
+- [Better Way 57](https://github.com/gizrak/effective-python/blob/main/chapter07-concurrency-and-parallelism/betterway57.ipynb) 요구에 따라 팬아웃을 진행하려면 새로운 스레드를 생성하지 말라
 - Better Way 58 동시성과 Queue를 사용하기 위해 코드를 어떻게 리팩터링해야 하는지 이해하라
 - Better Way 59 동시성을 위해 스레드가 필요한 경우에는 `ThreadpoolExecutor`를 사용하라
 - Better Way 60 I/O를 할 때는 코루틴을 사용해 동시성을 높여라
