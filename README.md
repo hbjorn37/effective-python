@@ -7,9 +7,9 @@
 - [Better Way #2](https://github.com/gizrak/effective-python/blob/main/chapter01-pythonic-thinking/betterway02.ipynb) PEP8 스타일 가이드를 따르라
 - Better Way #3 bytes와 str의 차이를 알아두라
 - Better Way #4 C 스타일 형식 문자열을 `str.format`과 쓰기보다는 f-문자열을 통한 인터폴레이션을 사용하라
-- Better Way #5 복잡한 식을 쓰는 대신 도우미 함수를 작성하라
+- [Better Way #5](https://github.com/gizrak/effective-python/blob/main/chapter01-pythonic-thinking/betterway05.ipynb) 복잡한 식을 쓰는 대신 도우미 함수를 작성하라
 - Better Way #6 인덱스를 사용하는 대신 대입을 사용해 데이터를 언패킹하라
-- Better Way #7 `range` 보다는 `enumerator`를 사용하라
+- [Better Way #7](https://github.com/gizrak/effective-python/blob/main/chapter01-pythonic-thinking/betterway07.ipynb) `range` 보다는 `enumerator`를 사용하라
 - Better Way #8 여러 `iterator`에 대해 나란히 루프를 수행하려면 zip을 사용하라
 - Better Way #9 `for`나 `while` 루프 뒤에 `else` 블록을 사용하지 말라
 - Better Way #10 대입식을 사용해 반복을 피하라
