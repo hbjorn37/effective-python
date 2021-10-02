@@ -35,7 +35,7 @@
 - Better Way #26 `functools.wrap`을 사용해 함수 데코레이터를 정의하라
 
 ### 4장. 컴프리헨션과 제너레이터
-- Better Way #27 `map`과 `filter` 대신 컴프리헨션을 사용하라
+- [Better Way #27](https://github.com/gizrak/effective-python/blob/main/chapter04-comprehensions-and-generators/betterway27.ipynb) `map`과 `filter` 대신 컴프리헨션을 사용하라
 - Better Way #28 컴프리헨션 내부에 제어 하위 식을 세 개 이상 사용하지 말라
 - Better Way #29 대입식을 사용해 컴프리헨션 안에서 반복 작업을 피하라
 - Better Way #30  리스트를 반환하기보다는 제너레이터를 사용하라
